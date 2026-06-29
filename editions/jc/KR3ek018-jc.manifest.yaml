@@ -1,0 +1,984 @@
+canonical_identifier: bkk:krp/KR3ek018/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek018/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 外科十三方考
+  identifiers:
+    krp: KR3ek018
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek018.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek018_000-jc.yaml, hash: 'sha256:ae35b4163f9a8b6773aa272aae68a42d18b64e330cc57221004fb6c1c6a57c61'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek018_000-jc.markers.yaml, hash: 'sha256:44d39c2bff614d412249adc401e071731f616985e5f300cb732570d45e9187d7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 372
+  label: 囑言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3.h1s1
+    span:
+    - body
+    - 372
+    - 2698
+  label: 上編
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d2
+    span:
+    - body
+    - 374
+    - 475
+  label: 總論歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d3
+    span:
+    - body
+    - 475
+    - 702
+  label: 癰疽總論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d4
+    span:
+    - body
+    - 702
+    - 861
+  label: 癰疽總論歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d5
+    span:
+    - body
+    - 861
+    - 1594
+  label: 癰疽總論歌解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d6
+    span:
+    - body
+    - 1594
+    - 1728
+  label: 癰疽陽症歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d7
+    span:
+    - body
+    - 1728
+    - 1889
+  label: 癰疽陰症歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d8
+    span:
+    - body
+    - 1889
+    - 2028
+  label: 陰陽相半歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d9
+    span:
+    - body
+    - 2028
+    - 2387
+  label: 癰疽善惡歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d10
+    span:
+    - body
+    - 2387
+    - 2492
+  label: 癰疽五善歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d11
+    span:
+    - body
+    - 2492
+    - 2637
+  label: 癰疽七惡歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d3d12
+    span:
+    - body
+    - 2637
+    - 2698
+  label: 諸般壞症歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.h1s1
+    span:
+    - body
+    - 2698
+    - 11057
+  label: 中編
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4d2
+    span:
+    - body
+    - 2700
+    - 11057
+  label: 處方篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d4
+    span:
+    - body
+    - 2801
+    - 3306
+  label: 鍋烈製法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d5
+    span:
+    - body
+    - 3306
+    - 3429
+  label: 金丹製法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d6
+    span:
+    - body
+    - 3429
+    - 3605
+  label: 石青製法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d7
+    span:
+    - body
+    - 3605
+    - 3948
+  label: 銀翠製法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d8
+    span:
+    - body
+    - 3948
+    - 4269
+  label: 附靈藥釋性
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d9
+    span:
+    - body
+    - 4269
+    - 4551
+  label: 第一方中九丸
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d10
+    span:
+    - body
+    - 4551
+    - 5825
+  label: 第二方金蚣丸
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d11
+    span:
+    - body
+    - 5825
+    - 6130
+  label: 第三方三香丸
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d12
+    span:
+    - body
+    - 6130
+    - 6708
+  label: 第四方化肉膏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d13
+    span:
+    - body
+    - 6708
+    - 7263
+  label: 第五方藥線
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d14
+    span:
+    - body
+    - 7263
+    - 8045
+  label: 第六方紫霞膏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d15
+    span:
+    - body
+    - 8045
+    - 8185
+  label: 第七方千捶紙
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d16
+    span:
+    - body
+    - 8185
+    - 8420
+  label: 第八方太歲墨
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d17
+    span:
+    - body
+    - 8420
+    - 8751
+  label: 第九方代針散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d18
+    span:
+    - body
+    - 8751
+    - 9720
+  label: 第十方熏洗湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d19
+    span:
+    - body
+    - 9720
+    - 10460
+  label: 第十一方天然散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d20
+    span:
+    - body
+    - 10460
+    - 10657
+  label: 第十二方麻涼膏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d4.d2d21
+    span:
+    - body
+    - 10657
+    - 11057
+  label: 第十三方解毒膏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.h1s1
+    span:
+    - body
+    - 11057
+    - 25672
+  label: 下編
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d2
+    span:
+    - body
+    - 11059
+    - 14738
+  label: 十八問答
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d3
+    span:
+    - body
+    - 14738
+    - 15384
+  label: 瘰癧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d4
+    span:
+    - body
+    - 15384
+    - 15594
+  label: 痰核
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d5
+    span:
+    - body
+    - 15594
+    - 15960
+  label: 鬢疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d6
+    span:
+    - body
+    - 15960
+    - 16061
+  label: 鬢疽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d7
+    span:
+    - body
+    - 16061
+    - 16114
+  label: 嘴疔似指唇疔而言
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d8
+    span:
+    - body
+    - 16114
+    - 16241
+  label: 水疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d9
+    span:
+    - body
+    - 16241
+    - 16365
+  label: 耳門癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d10
+    span:
+    - body
+    - 16365
+    - 16642
+  label: 暗門閂症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d11
+    span:
+    - body
+    - 16642
+    - 16750
+  label: 項下桃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d12
+    span:
+    - body
+    - 16750
+    - 16867
+  label: 馬刀痰核
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d13
+    span:
+    - body
+    - 16867
+    - 16955
+  label: 乳花
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d14
+    span:
+    - body
+    - 16955
+    - 17084
+  label: 乳癌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d15
+    span:
+    - body
+    - 17084
+    - 17158
+  label: 腰疽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d16
+    span:
+    - body
+    - 17158
+    - 17435
+  label: 上肚角疽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d17
+    span:
+    - body
+    - 17435
+    - 17620
+  label: 下肚角疽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d18
+    span:
+    - body
+    - 17620
+    - 17797
+  label: 便毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d19
+    span:
+    - body
+    - 17797
+    - 18366
+  label: 魚口
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d20
+    span:
+    - body
+    - 18366
+    - 18721
+  label: 臁瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d21
+    span:
+    - body
+    - 18721
+    - 18755
+  label: 裙邊瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d22
+    span:
+    - body
+    - 18755
+    - 18814
+  label: 踝花症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d23
+    span:
+    - body
+    - 18814
+    - 19084
+  label: 蠟燭疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d24
+    span:
+    - body
+    - 19084
+    - 19148
+  label: 下疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d25
+    span:
+    - body
+    - 19148
+    - 19628
+  label: 鬥精瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d26
+    span:
+    - body
+    - 19628
+    - 19763
+  label: 腦疽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d27
+    span:
+    - body
+    - 19763
+    - 19943
+  label: 對口瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d28
+    span:
+    - body
+    - 19943
+    - 19974
+  label: 左肩花症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d29
+    span:
+    - body
+    - 19974
+    - 19989
+  label: 右肩花症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d30
+    span:
+    - body
+    - 19989
+    - 20010
+  label: 左右發背症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d31
+    span:
+    - body
+    - 20010
+    - 20321
+  label: 附骨疽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d32
+    span:
+    - body
+    - 20321
+    - 20529
+  label: 鶴膝風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d33
+    span:
+    - body
+    - 20529
+    - 20561
+  label: 腳背花
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d34
+    span:
+    - body
+    - 20561
+    - 20589
+  label: 手掌花
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d35
+    span:
+    - body
+    - 20589
+    - 20670
+  label: 耳層
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d36
+    span:
+    - body
+    - 20670
+    - 20866
+  label: 鼻鼻息
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d37
+    span:
+    - body
+    - 20866
+    - 20983
+  label: 牙泄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d38
+    span:
+    - body
+    - 20983
+    - 21174
+  label: 喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d39
+    span:
+    - body
+    - 21174
+    - 21311
+  label: 龍癬瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d40
+    span:
+    - body
+    - 21311
+    - 21433
+  label: 龍纏瘡俗名纏腰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d41
+    span:
+    - body
+    - 21433
+    - 21520
+  label: 紫癜瘋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d42
+    span:
+    - body
+    - 21520
+    - 21727
+  label: 癭瘤
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d43
+    span:
+    - body
+    - 21727
+    - 21922
+  label: 棉子瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d44
+    span:
+    - body
+    - 21922
+    - 22099
+  label: 天泡瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d45
+    span:
+    - body
+    - 22099
+    - 22235
+  label: 小兒赤遊丹毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d46
+    span:
+    - body
+    - 22235
+    - 22300
+  label: 小兒腎囊風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d47
+    span:
+    - body
+    - 22300
+    - 24507
+  label: 痔漏門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d34
+    span:
+    - body
+    - 23007
+    - 23087
+  label: 一羊奶痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d35
+    span:
+    - body
+    - 23087
+    - 23145
+  label: 二櫻桃痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d36
+    span:
+    - body
+    - 23145
+    - 23255
+  label: 三雞冠痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d37
+    span:
+    - body
+    - 23255
+    - 23329
+  label: 四蓮花痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d38
+    span:
+    - body
+    - 23329
+    - 23418
+  label: 五雞管痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d39
+    span:
+    - body
+    - 23418
+    - 23601
+  label: 六脫肛痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d40
+    span:
+    - body
+    - 23601
+    - 23728
+  label: 七曲尺痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d41
+    span:
+    - body
+    - 23728
+    - 23753
+  label: 八蝴蝶痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d42
+    span:
+    - body
+    - 23753
+    - 23958
+  label: 九盤腸痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d43
+    span:
+    - body
+    - 23958
+    - 24050
+  label: 十鎖肛痔
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d44
+    span:
+    - body
+    - 24050
+    - 24136
+  label: 十一雌雄漏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d45
+    span:
+    - body
+    - 24136
+    - 24245
+  label: 十二瓜蒂漏亦名瓜藤漏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d46
+    span:
+    - body
+    - 24245
+    - 24275
+  label: 十三牛鼻漏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d47
+    span:
+    - body
+    - 24275
+    - 24313
+  label: 十四楊梅漏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5.d47d48
+    span:
+    - body
+    - 24313
+    - 24507
+  label: 十五龜尾漏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ek018_jc_000-d5d48
+    span:
+    - body
+    - 24507
+    - 25672
+  label: 十三方的總結
+  type: section
+  level: 2
+hash: sha256:d65ba6ffcde84ea5e954d404ff10c351824334db7892c470868aba7a3eb4e416
