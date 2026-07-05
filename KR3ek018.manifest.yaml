@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek018_000.yaml, hash: 'sha256:429be653040721a95fe7915a9c79254544a7061e896097b37d1dc800420b6f30'}
+  - {seq: 0, filename: KR3ek018_000.yaml, hash: 'sha256:ae35b4163f9a8b6773aa272aae68a42d18b64e330cc57221004fb6c1c6a57c61'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek018_000.markers.yaml, hash: 'sha256:952c3f5cdada1e82b7205e62a79de371e3b8e1aa9a7bf5940b7f0739982099ff'}
+  - {seq: 0, role: markers, filename: assets/KR3ek018_000.markers.yaml, hash: 'sha256:b36720051a356e013d7ea76deda16b24e8bed4bf500ed5d37d4a8ab8db06d708'}
 table_of_contents:
 - ref:
     seq: 0
@@ -981,7 +981,4 @@ table_of_contents:
   label: 十三方的總結
   type: section
   level: 2
-hash: sha256:ae42fc9f77669a038cbe1b10f7daafe906e5530b5455a8db8320ed23a4471a0d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bb32c48debd94ac3e9c4dd965194f2f7e9f186c5237644d07a6a7414d88770ec
