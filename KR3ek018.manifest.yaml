@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek018_000.yaml, hash: 'sha256:20bb0e9ec00cd997c677949ff89f8d2baaeaa14266e1f7094f859869950f9e32'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek018_000.markers.yaml, hash: 'sha256:b170db31124f5af3302c10b6b8848305139473b48137c01f74b439614c1f5337'}
+  - {seq: 0, role: markers, filename: assets/KR3ek018_000.markers.yaml, hash: 'sha256:da9feea9705226439a3dde3d05bac07b9fda38b8261b1897afbb89044b875ee5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -981,7 +981,7 @@ table_of_contents:
   label: 十三方的總結
   type: section
   level: 2
-hash: sha256:8b135002ad08633f9e1c919ada97230cbfa2ddb03458226eed7af2233c16729b
+hash: sha256:b1d0f6554f3982b4f50430991069fb829e32631a70a4764fb4e277881bb3a9a0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

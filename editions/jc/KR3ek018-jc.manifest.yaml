@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek018_000-jc.yaml, hash: 'sha256:ae35b4163f9a8b6773aa272aae68a42d18b64e330cc57221004fb6c1c6a57c61'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek018_000-jc.markers.yaml, hash: 'sha256:44d39c2bff614d412249adc401e071731f616985e5f300cb732570d45e9187d7'}
+  - {seq: 0, role: markers, filename: assets/KR3ek018_000-jc.markers.yaml, hash: 'sha256:b8beb3ab2a133b291ea562627b6e400d775f47043324e95e7c44ea6a9b1bd882'}
 table_of_contents:
 - ref:
     seq: 0
@@ -981,4 +981,4 @@ table_of_contents:
   label: 十三方的總結
   type: section
   level: 2
-hash: sha256:d65ba6ffcde84ea5e954d404ff10c351824334db7892c470868aba7a3eb4e416
+hash: sha256:c64f7c54685fac3376ec58e3530b0ef2f2eb3a4255fabbaf7574d27e8f13d0cb
